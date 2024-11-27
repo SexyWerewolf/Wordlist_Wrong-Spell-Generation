@@ -1,9 +1,5 @@
 # Password Wordlist - Wrong Spell Generation
 
-## Demo Site
-
-You can also try the script in action on the [Online Demo](https://pw-wsg.werewolfbaby.com/), where you can input words and download the generated misspellings in real-time.
-
 
 ## Overview
 
